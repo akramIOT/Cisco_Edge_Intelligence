@@ -21,14 +21,8 @@ To Kickstart this project  you need access to the  following resources below.
 The following is a list of Data rules and  Config parameters available in the  Data rules which are supported in Cisco EI agent software
 	
 ![IOT - AIML](https://user-images.githubusercontent.com/21118209/182680179-83895811-f09e-4c46-bfdc-05d2a751d398.jpeg)
-
-
 ![Connection Type](https://user-images.githubusercontent.com/21118209/182678873-23201e6f-9cb9-418b-b8bd-64be04ae10c6.jpeg)
 
-
 Here is some sample illustration for receiving data (polling from source) from the different southbound connectors like OPCUA, Modbus, EI/CIP, Serial etc into the EMLcomponent (edge management link) of Edge Intelligence and then triggring the publish of  data  via MQTT PubSub mechanism to Azure IOT hub on the  northbound side.  
-![EI_2](https://user-images.githubusercontent.com/21118209/182685799-17cc6fd2-cf96-4df6-ab55-d04d54f05311.jpeg)
 
-![EI_3](https://user-images.githubusercontent.com/21118209/182685812-24f3459c-da75-4c52-a4b0-df457d77337c.png)
-
-![EI_1](https://user-images.githubusercontent.com/21118209/182685833-1a3fc2d9-2a75-4b8c-9851-5581e618ab59.jpeg)
+![EI_1](https://user-images.githubusercontent.com/21118209/182685978-b1fa3918-0302-4eca-9e43-08c908bcec07.jpeg)
