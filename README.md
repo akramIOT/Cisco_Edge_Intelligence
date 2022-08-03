@@ -20,8 +20,7 @@ To Kickstart this project  you need access to the  following resources below.
 	
 
 
-
 ![Connection Type](https://user-images.githubusercontent.com/21118209/182678873-23201e6f-9cb9-418b-b8bd-64be04ae10c6.jpeg)
 
 
-Here is some sample code for receiving MQTT data from Edge Intelligence and re-publishing to AWS IOT Core and ThingsBoard.
+Here is some sample code for receiving MQTT data from Edge Intelligence and re-publishing to Azure IOT hub on the  northbound side.  
