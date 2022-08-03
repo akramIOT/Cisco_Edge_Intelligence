@@ -1,4 +1,7 @@
 # Cisco_Edge_Intelligence
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/akramIOT/Cisco_Edge_Intelligence)
+
 Custom  Data Logic  Scripts for Customer and Partners Reference 
 
 
