@@ -24,5 +24,5 @@ The following is a list of Data rules and  Config parameters available in the  D
 ![Connection Type](https://user-images.githubusercontent.com/21118209/182678873-23201e6f-9cb9-418b-b8bd-64be04ae10c6.jpeg)
 
 Here is some sample illustration for receiving data (polling from source) from the different southbound connectors like OPCUA, Modbus, EI/CIP, Serial etc into the EMLcomponent (edge management link) of Edge Intelligence and then triggring the publish of  data  via MQTT PubSub mechanism to Azure IOT hub on the  northbound side.  
+![EI_2](https://user-images.githubusercontent.com/21118209/182686442-c69e2ae5-fd9a-4e0a-be18-7b0088af116a.png)
 
-![EI_1](https://user-images.githubusercontent.com/21118209/182685978-b1fa3918-0302-4eca-9e43-08c908bcec07.jpeg)
