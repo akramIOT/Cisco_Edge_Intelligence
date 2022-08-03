@@ -11,12 +11,12 @@ Using standard MQTT destination configuration in Cisco (Edge Intelligence) EI ap
 To Kickstart this project  you need access to the  following resources below. 
 
   1. Sensors/PLCs/Simulators - of type: MQTT, OPCUA, Modbus TCP/Serial, EIP/CIP, Serial etc  	
-	2. Cisco Edge Intelligence (EI)
+  2. Cisco Edge Intelligence (EI)
 	- latest Cisco  EI/ Edge Software - SW packages can be downloaded from Cisco.com
 	- Cloud Portal account - A valid account in Cisco EI cloud portal access in Cisco  IOTOD  (Operations Dashboard) 
-	3. Knowledge of Cisco EI - docs @ https://developer.cisco.com/edge-intelligence/
-	4. Data Destination  access /support for accounts in  Azure IOT Hub, 3rd Party MQTT Broker, IBM  Watson, Software  AG  Cumulocity.  
-	5. Java script  and  Python modules: ssl, Mosquitto MQTT SDK, HivemQ SDK, paho-mqtt, json  etc
+  3. Knowledge of Cisco EI - docs @ https://developer.cisco.com/edge-intelligence/
+  4. Data Destination  access /support for accounts in  Azure IOT Hub, 3rd Party MQTT Broker, IBM  Watson, Software  AG  Cumulocity.  
+  5. Java script  and  Python modules: ssl, Mosquitto MQTT SDK, HivemQ SDK, paho-mqtt, json  etc
 	
 The following is a list of Data rules and  Config parameters available in the  Data rules which are supported in Cisco EI agent software
 	
