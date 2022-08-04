@@ -1,9 +1,10 @@
-# Cisco_Edge_Intelligence
+# Cisco_EI_Custom Data Logic
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/akramIOT/Cisco_Edge_Intelligence)
 
 Custom  Data Logic  Scripts for Customer and Partners Reference 
 
+For Cisco Edge Intelligence Master  Reference ,kindly use this  template - https://developer.cisco.com/codeexchange/github/repo/nmanicka/edgeintelligence/
 
 Cisco Edge Intelligence (EI) allows to extract, tranform, govern and deliver data from sensor devices to cloud/datacenter applications.
 
