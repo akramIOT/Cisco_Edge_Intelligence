@@ -4,7 +4,9 @@
 
 Custom  Data Logic  Scripts for Customer and Partners Reference 
 
-For Cisco Edge Intelligence Master  Reference ,kindly use this  template - https://developer.cisco.com/codeexchange/github/repo/nmanicka/edgeintelligence/
+For Cisco Edge Intelligence Master  Reference ,kindly use this link below 
+
+https://developer.cisco.com/codeexchange/github/repo/nmanicka/edgeintelligence/
 
 Cisco Edge Intelligence (EI) allows to extract, tranform, govern and deliver data from sensor devices to cloud/datacenter applications.
 
