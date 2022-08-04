@@ -34,3 +34,36 @@ The following is a list of Data rules and  Config parameters available in the  D
 
 Here is some sample illustration for receiving data (polling from source) from the different southbound connectors like OPCUA, Modbus, EI/CIP, Serial etc into the EMLcomponent (edge management link) of Edge Intelligence and then triggring the publish of  data  via MQTT PubSub mechanism to Azure IOT hub  (MQTT  Broker)on the  northbound side.  
 ![Arch](https://user-images.githubusercontent.com/21118209/182687128-6dd3dea6-dc60-4ade-aa8d-78535e541656.jpg)
+
+Sample  Output of  the  JSON  data received on the  Northbound  Azure IOT Hub side by using  this  Customized  Data Logic script (.js) on the  Edge side. 
+
+{
+  "body": {
+    "LT301B": {
+      "ts": 1658850577965,
+      "v": 55.234161376953125
+    },
+    "LZT101": {
+      "ts": 1658850577965,
+      "v": 61.486026763916016
+    },
+    "PZT2401": {
+      "ts": 1658850577965,
+      "v": 6.029730796813965
+    },
+    "TT303B": {
+      "ts": 1658850577975,
+      "v": -65.90711975097656
+    },
+    "TT501C": {
+      "ts": 1658850577974,
+      "v": -50.60000610351563
+    }
+  },
+  "enqueuedTime": "Tue Jul 26 2022 11:49:40 GMT-0400 (Eastern Daylight Time)",
+  "properties": {
+    "deviceInfo": "{\"Region\":\"Europe\",\"Country\":\"Germany\",\"CustomerId\":\"1d287c22-2fd1-4a96-ae21-cd35f4063f24\",\"StationId\":\"aaaaaaaa-6000-6000-6000-000000000003\",\"StationName\":\"Liquind 6\"}"
+  }
+}
+
+
