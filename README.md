@@ -18,6 +18,13 @@ Using standard MQTT destination configuration in Cisco (Edge Intelligence) EI ap
 
 ![EI_6](https://user-images.githubusercontent.com/21118209/182686907-7db10b10-b7e9-4181-b96a-450c16109c0d.jpg)
 
+For a detailed list of  Steps on how  to use  VS Code IDE or  other  tools to  develop your own  Custom  Data Logic  script, kindly refer the link below.
+https://marketplace.visualstudio.com/items?itemName=Cisco.iot-edge-intelligence
+
+For a detailed list of  steps on how to use  Cisco EI dashboard on IOTOD (IOT Operations dashboard) to un-map the  Data rule which was previously mapped to EI agent and then create  a Custom data logic script which can be then mapped to EI agent, kindly refer link below for the self paced walkthrough of all the steps.
+
+https://developer.cisco.com/docs/iotod/#!deploy-data-logic-in-cisco-ei
+
 To Kickstart this project  you need access to the  following resources below. 
 
   1. Sensors/PLCs/Simulators - of type: MQTT, OPCUA, Modbus TCP/Serial, EIP/CIP, Serial etc  	
@@ -34,13 +41,6 @@ The following is a list of Data rules and  Config parameters available in the  D
 
 Here is some sample illustration for receiving data (polling from source) from the different southbound connectors like OPCUA, Modbus, EI/CIP, Serial etc into the EMLcomponent (edge management link) of Edge Intelligence and then triggring the publish of  data  via MQTT PubSub mechanism to Azure IOT hub  (MQTT  Broker)on the  northbound side.  
 ![Arch](https://user-images.githubusercontent.com/21118209/182687128-6dd3dea6-dc60-4ade-aa8d-78535e541656.jpg)
-
-For a detailed list of  Steps on how  to use  VS Code IDE or  other  tools to  develop your own  Custom  Data Logic  script, kindly refer the link below.
-https://marketplace.visualstudio.com/items?itemName=Cisco.iot-edge-intelligence
-
-For a detailed list of  steps on how to use  Cisco EI dashboard on IOTOD (IOT Operations dashboard) to un-map the  Data rule which was previously mapped to EI agent and then create  a Custom data logic script which can be then mapped to EI agent, kindly refer link below for the self paced walkthrough of all the steps.
-
-https://developer.cisco.com/docs/iotod/#!deploy-data-logic-in-cisco-ei
 
 
 OUTPUT:
