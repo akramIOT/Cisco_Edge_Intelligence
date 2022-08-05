@@ -35,6 +35,17 @@ The following is a list of Data rules and  Config parameters available in the  D
 Here is some sample illustration for receiving data (polling from source) from the different southbound connectors like OPCUA, Modbus, EI/CIP, Serial etc into the EMLcomponent (edge management link) of Edge Intelligence and then triggring the publish of  data  via MQTT PubSub mechanism to Azure IOT hub  (MQTT  Broker)on the  northbound side.  
 ![Arch](https://user-images.githubusercontent.com/21118209/182687128-6dd3dea6-dc60-4ade-aa8d-78535e541656.jpg)
 
+For a detailed list of  Steps on how  to use  VS Code IDE or  other  tools to  develop your own  Custom  Data Logic  script, kindly refer the link below.
+https://marketplace.visualstudio.com/items?itemName=Cisco.iot-edge-intelligence
+
+For a detailed list of  steps on how to use  Cisco EI dashboard on IOTOD (IOT Operations dashboard) to un-map the  Data rule which was previously mapped to EI agent and then create  a Custom data logic script which can be then mapped to EI agent, kindly refer link below for the self paced walkthrough of all the steps.
+
+https://developer.cisco.com/docs/iotod/#!deploy-data-logic-in-cisco-ei
+
+
+OUTPUT:
+=======
+
 Sample  Output of  the  JSON  data received on the  Northbound  Azure IOT Hub side by using  this  Customized  Data Logic script (.js) on the  Edge side. 
 
 {
