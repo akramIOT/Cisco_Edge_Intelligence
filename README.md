@@ -73,7 +73,7 @@ Sample  Output of  the  JSON  data received on the  Northbound  Azure IOT Hub si
   },
   "enqueuedTime": "Tue Jul 26 2022 11:49:40 GMT-0400 (Eastern Daylight Time)",
   "properties": {
-    "deviceInfo": "{\"Region\":\"Europe\",\"Country\":\"Germany\",\"CustomerId\":\"1d287c22-2fd1-4a96-ae21-cd35f4063f24\",\"StationId\":\"aaaaaaaa-6000-6000-6000-000000000003\",\"StationName\":\"Liquind 6\"}"
+    "deviceInfo": "{\"Region\":\"Europe\",\"Country\":\"Germany\",\"CustomerId\":\"XXXXX-XXXXX-XXXXXX-XXXXXX-XXXXXXX\",\"StationId\":\"aaaaaaaa-6000-6000-6000-000000000003\",\"StationName\":\"Liquind 6\"}"
   }
 }
 
