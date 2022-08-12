@@ -12,6 +12,8 @@ Cisco Edge Intelligence (EI) allows to extract, tranform, govern and deliver dat
 
 Cisco Edge Intelligence on DevNet - https://developer.cisco.com/edge-intelligence/
 
+![New Note](https://user-images.githubusercontent.com/21118209/184432998-af862669-ed9c-4242-b320-605ee9edb4c3.jpeg)
+
 Using standard MQTT destination configuration in Cisco (Edge Intelligence) EI application, data can be forwarded to many data destinations like Azure IOT Hub, IBMS Watson, 3rd Party MQTT brokers, et al  etc.
 
 ![EI_2](https://user-images.githubusercontent.com/21118209/182686442-c69e2ae5-fd9a-4e0a-be18-7b0088af116a.png)
